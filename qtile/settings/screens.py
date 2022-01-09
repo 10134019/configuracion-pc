@@ -41,7 +41,7 @@ screens = [
                        format = " %d/%m/%Y - %H:%M  "
                        ),
                 widget.TextBox(
-                        text = ' V: ',
+                        text = '  ',
                         background= "#bae67e",
                         foreground = colors[2],
                 ),
